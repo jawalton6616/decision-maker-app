@@ -2,6 +2,9 @@
   "name": "decision-maker-app",
   "version": "0.0.1",
   "description": "MERN stack polling application",
+  "engines": {
+    "node": "16.2.0"
+  },
   "homepage": "https://evening-wildwood-43860.herokuapp.com/",
   "main": "server.js",
   "scripts": {
